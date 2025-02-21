@@ -55,7 +55,7 @@ Rdv dans les modules
 - **cd services**
 - **mvn spring-boot:run**
 - **Démarrez le serveur tomCat**
-- Configuration voir (image config Tomacat)
+- Configuration voir (image config Tomcat)
 - Pour le TomCat à appuyé sur le btn Run de IDE
 - **Vous pouvez également lancer l'application directement depuis votre IDE en appuyant sur le bouton Run.**
 
